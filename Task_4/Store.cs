@@ -39,6 +39,5 @@ namespace Task_4
             else
                 Console.WriteLine("Попытка записи за пределами массива.");
         }
-
     }
 }
